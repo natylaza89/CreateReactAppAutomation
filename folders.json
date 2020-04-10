@@ -1,0 +1,10 @@
+{
+  "folders": [
+    "components",
+    "containers",
+    "assets/images/",
+    "hoc",
+    "store/actions",
+    "store/reducers"
+  ]
+}
