@@ -3,10 +3,10 @@ Running a script which using create-react-app to init a new project, install pac
 
 
 # How to Use
-Requirements: Python and Node must already be installed.
+Requirements: Python and Node must already be installed.  
 
-Open terminal and run the script: `python main.py react_project_name`
-Instead of 'react_project_name' enter you react project name that you wish for.
+Open terminal and run the script: `python main.py react_project_name`  
+Instead of 'react_project_name' enter you react project name that you wish for.  
 If you run the command without a project's name it will automatically assign "react_project"
 
 # How it works
